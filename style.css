@@ -56,11 +56,15 @@ body {
 .btn {
     background: green;
     display: inline-flex;
+    cursor: pointer;
     padding: 7px;
     font-size: 14px;
     border-radius: 5px;
-}
+} 
 
+.btn:hover {
+    background: darkgreen;
+}
 
 .img-cont1,
 .img-cont2,

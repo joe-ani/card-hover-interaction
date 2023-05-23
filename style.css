@@ -56,7 +56,7 @@ body {
 }
 
 .btn {
-    background: green;
+    background: rgb(51, 68, 180);
     display: inline-flex;
     cursor: pointer;
     padding: 7px;
@@ -68,7 +68,7 @@ body {
 }
 
 .btn:hover {
-    background: darkgreen;
+    background: rgb(32, 43, 120);
 }
 
 .img-cont1,
@@ -81,7 +81,7 @@ body {
     background-repeat: no-repeat;
     width: 140px;
     height: 200px;
-    border: 5px solid rgb(18, 99, 212);
+    border: 4px solid rgb(51, 68, 180);
     border-radius: 20px;
 }
 
